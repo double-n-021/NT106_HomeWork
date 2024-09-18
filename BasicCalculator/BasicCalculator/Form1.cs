@@ -130,6 +130,11 @@ namespace BasicCalculator
                     txtDisplay.Text = result + "";
                 }
             }
+
+            if (option.Equals("%"))
+            {
+                txtDisplay.Text = (num1 % num2).ToString();
+            }    
         }
 
         private void button12_Click(object sender, EventArgs e)
@@ -159,6 +164,14 @@ namespace BasicCalculator
         private void button5_Click(object sender, EventArgs e)
         {
             txtDisplay.Text = "";
+        }
+
+        private void button16_Click(object sender, EventArgs e)
+        {
+            option = "%";
+            num1 = float.Parse(txtDisplay.Text);
+
+            txtDisplay.Clear();
         }
     }
 }
