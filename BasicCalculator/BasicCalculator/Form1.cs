@@ -75,7 +75,8 @@ namespace BasicCalculator
 
         private void button18_Click(object sender, EventArgs e)
         {
-            txtDisplay.Text = txtDisplay.Text + ".";
+            if(!(txtDisplay.Text.Contains(".")))
+                txtDisplay.Text = txtDisplay.Text + ".";
         }
 
         private void button6_Click(object sender, EventArgs e)
@@ -172,6 +173,11 @@ namespace BasicCalculator
             num1 = float.Parse(txtDisplay.Text);
 
             txtDisplay.Clear();
+        }
+
+        private void txtDisplay_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

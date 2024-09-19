@@ -259,6 +259,7 @@
             this.txtDisplay.Size = new System.Drawing.Size(299, 52);
             this.txtDisplay.TabIndex = 19;
             this.txtDisplay.TextAlign = System.Windows.Forms.HorizontalAlignment.Right;
+            this.txtDisplay.TextChanged += new System.EventHandler(this.txtDisplay_TextChanged);
             // 
             // button16
             // 

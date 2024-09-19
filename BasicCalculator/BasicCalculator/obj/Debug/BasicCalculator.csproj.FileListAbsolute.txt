@@ -8,3 +8,13 @@ E:\Code_VisualStudio\NT106\Week2_Calculator\23521037_BasicCalculator_BuiDangNhat
 E:\Code_VisualStudio\NT106\Week2_Calculator\23521037_BasicCalculator_BuiDangNhatNguyen\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
 E:\Code_VisualStudio\NT106\Week2_Calculator\23521037_BasicCalculator_BuiDangNhatNguyen\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
 E:\Code_VisualStudio\NT106\Week2_Calculator\23521037_BasicCalculator_BuiDangNhatNguyen\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe.config
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.exe
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\bin\Debug\BasicCalculator.pdb
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.AssemblyReference.cache
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Form1.resources
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.Properties.Resources.resources
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.GenerateResource.cache
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.csproj.CoreCompileInputs.cache
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.exe
+E:\Code_VisualStudio\NT106\Homework\Week2_BasicCalculator&PictureViewer\BasicCalculator\BasicCalculator\obj\Debug\BasicCalculator.pdb
